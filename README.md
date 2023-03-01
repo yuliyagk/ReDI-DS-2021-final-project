@@ -12,7 +12,7 @@ The data used for the project can be found at: https://www.kaggle.com/brsdincer/
 
 DATA FOR ORBIT CLASS PREDICTION
 It is based on prediction process.
-Data was generated without including unnecessary columns.
+Data was generated without including of the unnecessary columns.
 
 INLUCED:
 
